@@ -4,6 +4,8 @@ matplotlib
 ipython
 jupyter
 pandas
+sympy
+nose
 requests
 html5lib
 beautifulsoup4
