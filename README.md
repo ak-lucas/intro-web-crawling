@@ -12,7 +12,7 @@
 1. Navegue pelo terminal até o repositório clonado e:
     1. Crie um novo ambiente no conda com o comando **conda create -n crawler python=3.7 pip** ;
     1. Quando a instalação terminar, execute o comando **conda activate crawler**;
-    1. Agora você estará dentro de um ambiente em que será preparado para possibilitar a criação de web crawlers;
+    1. Agora você estará dentro de um ambiente que será preparado para possibilitar a criação de web crawlers;
 1. Execute o comando **pip install -r requirements.txt** para instalar os módulos necessários para desenvolver o trabalho.
 1. Execute o comando **jupyter notebook** e procure o arquivo *crawler.ipynb*.
 1. Pronto! Os demais passos serão explicados no jupyter notebook.
